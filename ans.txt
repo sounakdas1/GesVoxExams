@@ -1,0 +1,16 @@
+for question no 1
+ What is the capital of Australia? 
+A: Sydney  
+B: Canberra  
+C: Melbourne  
+D: Brisbane:
+ Your answer is B;
+
+for question no 3
+ Who is known as the father of modern physics? 
+A: Isaac Newton  
+B: Albert Einstein  
+C: Galileo Galilei  
+D: Stephen Hawking:
+ Your answer is C;
+
